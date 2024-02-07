@@ -22,7 +22,7 @@
     "yargs": "~17"
   },
   "devDependencies": {
-    "jshint": "^2.9.1"
+    "@pirxpilot/jshint": "~3"
   },
   "scripts": {
     "test": "make check"
