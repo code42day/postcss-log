@@ -18,11 +18,11 @@
     "postmark"
   ],
   "dependencies": {
-    "postmark": "~2",
-    "yargs": "~15"
+    "postmark": "~4",
+    "yargs": "~17"
   },
   "devDependencies": {
-    "jshint": "^2.9.1"
+    "@pirxpilot/jshint": "~3"
   },
   "scripts": {
     "test": "make check"
