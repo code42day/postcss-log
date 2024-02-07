@@ -1,4 +1,10 @@
 
+0.1.1 / 2024-02-07
+==================
+
+ * replace jshint with @pirxpilot/jshint
+ * upgrade dependencies
+
 0.1.0 / 2020-05-14
 ==================
 
