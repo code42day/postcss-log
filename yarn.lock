@@ -29,10 +29,10 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-axios@^1.6.2:
-  version "1.6.8"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.6.8.tgz#66d294951f5d988a00e87a0ffb955316a619ea66"
-  integrity sha512-v/ZHtJDU39mDpyBoFVkETcd/uNdxrWRrg3bKpOKzXFA6Bvqopts6ALSMU3y6ijYxbw2B+wPrIv46egTzJXCLGQ==
+axios@^1.7.2:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.7.4.tgz#4c8ded1b43683c8dd362973c393f3ede24052aa2"
+  integrity sha512-DukmaFRnY6AzAALSH4J2M3k6PkaC+MfaAGdEERRWcC9q3/TWQwLpHR8ZRLKTdQ3aBDL64EdluRDjJqKw+BPZEw==
   dependencies:
     follow-redirects "^1.15.6"
     form-data "^4.0.0"
@@ -147,11 +147,11 @@ optymista@^0.1.0:
   integrity sha512-Z6foasmYw8SZ+RkRI+0D2f/MvazKcSBq4FbEjFCY7hTrMmbQfGjk/lJIhtKhw++UUUKebQtunTuzMnHZGLYihQ==
 
 postmark@~4:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/postmark/-/postmark-4.0.2.tgz#0c0410ac427d85f2a43454360cf8d07e0fbda317"
-  integrity sha512-2zlCv+KVVQ0KoamXZHE7d+gXzLlr8tPE+PxQmtUaIZhbHzZAq4D6yH2b+ykhA8wYCc5ISodcx8U1aNLenXBs9g==
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/postmark/-/postmark-4.0.4.tgz#ea0566af297820282f655eed59c2716487f996a1"
+  integrity sha512-Qme+i5nidpcySxPBaPT0Arqc15dKl9D+fk9qsHEV2s8mhTK13/213RRD2/uemp8H6/ZHjAfgKCTY9TfzThbCTQ==
   dependencies:
-    axios "^1.6.2"
+    axios "^1.7.2"
 
 proxy-from-env@^1.1.0:
   version "1.1.0"
