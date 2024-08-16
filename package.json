@@ -8,9 +8,12 @@
     "url": "https://pirxpilot.me"
   },
   "bin": {
-    "postmark-log": "./bin/postmark-log"
+    "postmark-log": "bin/postmark-log"
   },
-  "repository": "github:pirxpilot/postmark-log",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirxpilot/postmark-log.git"
+  },
   "license": "MIT",
   "keywords": [
     "postmark-log",
