@@ -1,4 +1,10 @@
 
+0.1.3 / 2024-08-16
+==================
+
+ * replace Travis CI with github actions
+ * soft deps update
+
 0.1.2 / 2024-04-16
 ==================
 
