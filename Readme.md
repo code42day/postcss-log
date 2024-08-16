@@ -1,5 +1,5 @@
 [![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
+[![Build Status][build-image]][build-url]
 [![Dependency Status][deps-image]][deps-url]
 
 # postmark-log
@@ -29,11 +29,11 @@ Options:
 
 MIT © [Damian Krzeminski](https://pirxpilot.me)
 
-[npm-image]: https://img.shields.io/npm/v/postmark-log.svg
+[npm-image]: https://img.shields.io/npm/v/postmark-log
 [npm-url]: https://npmjs.org/package/postmark-log
 
-[travis-image]: https://img.shields.io/travis/com/pirxpilot/postmark-log.svg
-[travis-url]: https://travis-ci.com/pirxpilot/postmark-log
+[build-image]: https://img.shields.io/github/actions/workflow/status/pirxpilot/postmark-log/check.yaml?branch=main
+[build-url]: https://github.com/pirxpilot/postmark-log/actions/workflows/check.yaml
 
-[deps-image]: https://img.shields.io/david/pirxpilot/postmark-log.svg
-[deps-url]: https://david-dm.org/pirxpilot/postmark-log
+[deps-image]: https://img.shields.io/librariesio/release/npm/postmark-log
+[deps-url]: https://libraries.io/npm/postmark-log

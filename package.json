@@ -10,7 +10,7 @@
   "bin": {
     "postmark-log": "./bin/postmark-log"
   },
-  "repository": "pirxpilot/postmark-log",
+  "repository": "github:pirxpilot/postmark-log",
   "license": "MIT",
   "keywords": [
     "postmark-log",
